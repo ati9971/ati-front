@@ -1,0 +1,43 @@
+.top-footer {
+  background-color: unset;
+  justify-self: center;
+}
+
+
+
+.testing5 {
+  width: 700px;
+}
+
+.ilya-selector-select {
+
+  border: 1px solid rgba(88, 88, 90, 0.6);
+  background-color: #fff;
+  font-size: 1.8rem;
+  font-style: bold;
+}
+
+
+.ilya-selector-content ul li {
+  height: 5rem;
+}
+
+.ilya-selector-content .icon-left {
+  line-height: 3rem;
+}
+
+.ilya-selector-content .icon-right {
+  line-height: 3rem;
+}
+
+.ilya-selector-content ul li:hover {
+  background-color: rgba(88, 88, 90, 0.1);
+  border-bottom: 1.5px solid rgba(40, 180, 133, 0.5);
+  font-size: 1.8rem;
+}
+
+.ilya-selector-content__back {
+  border-bottom: 2px solid rgba(245, 169, 86, 0.3);
+  font-size: 1.8rem;
+  font-style: bold;
+}
